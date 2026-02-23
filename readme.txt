@@ -1,4 +1,4 @@
-言归正传，现在我们编写一个readme.txt文件，内容如下：
-
-Git is a version control system2.
-Git is free software.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
